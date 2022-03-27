@@ -1,0 +1,17 @@
+.container{
+    background-color: aqua;
+}
+
+.row{
+    border: solid 1px black;
+}
+.col{
+    height: 50px;
+    border: blanchedalmond solid 1px;
+}
+.impar{
+    background-color: blueviolet;
+}
+.par{
+    background-color: crimson;
+}

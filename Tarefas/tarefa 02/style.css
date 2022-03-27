@@ -1,0 +1,32 @@
+.col{
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col i{
+    margin-right: 15px;
+    font-size: 30px;
+}
+
+.confirmação{
+    border: green 1px solid;
+}
+.confirmação i{
+    color: green;
+}
+
+.fechamento{
+    border: red 1px solid;
+}
+.fechamento i{
+    color: red;
+}
+.a{
+    border: aqua 1px solid;
+}
+.a i{
+    color: aqua;
+}
